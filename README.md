@@ -10,6 +10,13 @@
 <p align="left">
 <a href="https://github.com/Skyline7171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Skyline7171" height="30" width="40" /></a>
 <a href="https://leetcode.com/Skyline7171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Skyline7171" height="30" width="40" /></a>
+<a href="https://discord.com/users/.skyline_" target="_blank">
+  <img align="center"
+       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+       alt="Discord"
+       height="30"
+       width="40" />
+</a>
 </p>
 
 [![Discord](https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/TU_USER_ID)
