@@ -1,4 +1,13 @@
+
+
+
 # Hi 👋, I'm Skyline7171
+
+<img
+  src="https://github.com/user-attachments/assets/03557315-3a10-4bfd-887a-e4f982e0e61d"
+  width="200"
+  alt="Animated GIF"
+/>
 
 ### An experienced Javascript developer
 
